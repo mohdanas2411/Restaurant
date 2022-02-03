@@ -1,0 +1,3 @@
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/restaurantly-restaurant-template/
+INSERT INTO `book` (`sno`, `name`, `email`, `phone`, `date`, `time`, `people`, `other`, `bdt`) VALUES ('02', 'neha', 'example@01.com', '9999999998', '2021-11-01', '2:00', '2', 'gygugyjghyujgujgyuj', '2021-11-16 15:03:53.000000');
